@@ -183,6 +183,7 @@ li a:hover{
 /* home flexbox items */
 .homeFlexItem {
   flex-basis: 100%;
+  flex-direction: row;
   text-align:center;
   }
 
