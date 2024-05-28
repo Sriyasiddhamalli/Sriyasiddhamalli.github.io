@@ -175,11 +175,8 @@ li a:hover{
   }
 
 .homeFlexbot {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  margin-top: 60px;
-  margin-bottom: 30px;
+  flex-basis: 100%;
+  text-align:center;
   }
 
 @media screen and (max-width:880px) {
