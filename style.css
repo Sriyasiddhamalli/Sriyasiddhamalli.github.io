@@ -177,6 +177,8 @@ li a:hover{
 .homeFlexbot {
   flex-basis: 100%;
   text-align:center;
+  margin-top: 60px;
+  margin-bottom: 30px;
   }
 
 @media screen and (max-width:880px) {
